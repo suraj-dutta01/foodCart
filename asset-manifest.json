@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/foodCart/static/css/main.96f3d238.css",
+    "main.js": "/foodCart/static/js/main.5e57c717.js",
+    "static/js/592.73b77d2f.chunk.js": "/foodCart/static/js/592.73b77d2f.chunk.js",
+    "index.html": "/foodCart/index.html",
+    "main.96f3d238.css.map": "/foodCart/static/css/main.96f3d238.css.map",
+    "main.5e57c717.js.map": "/foodCart/static/js/main.5e57c717.js.map",
+    "592.73b77d2f.chunk.js.map": "/foodCart/static/js/592.73b77d2f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96f3d238.css",
+    "static/js/main.5e57c717.js"
+  ]
+}
