@@ -1,0 +1,91 @@
+{
+  "manager": [
+    {
+      "id": "5dbc",
+      "name": "suraj",
+      "email": "suraj123@gmail.com",
+      "phone": "5678903454",
+      "gender": "male",
+      "pass": "1234"
+    },
+    {
+      "id": "75c8",
+      "name": "Suman",
+      "email": "suman@gmail.com",
+      "phone": "5656787899",
+      "gender": "male",
+      "pass": "1234"
+    },
+    {
+      "id": "0ee0",
+      "name": "bristi",
+      "email": "bristi@gmail.com",
+      "phone": "1234567896",
+      "gender": "female",
+      "pass": "1234"
+    }
+  ],
+  "user": [
+    {
+      "id": "e12e",
+      "name": "raja",
+      "email": "raja123@gmail.com",
+      "gender": "male",
+      "pass": "123"
+    },
+    {
+      "id": "93bb",
+      "name": "amal",
+      "email": "amal@gmail.com",
+      "gender": "male",
+      "pass": "123"
+    }
+  ],
+  "products": [
+    {
+      "id": "3065",
+      "catagory": "Non-Veg",
+      "ResName": "Hotel Annapoorna",
+      "dishName": "Chicken Biryani",
+      "price": "220",
+      "Quantity": "3",
+      "Description": "Chicken Biryani, a world-famous Indian delicacy, requires time and experience to prepare but is well worth the effort.",
+      "Thumbnale": "https://www.licious.in/blog/wp-content/uploads/2022/06/chicken-hyderabadi-biryani-01.jpg",
+      "Rating": "4"
+    },
+    {
+      "id": "a265",
+      "catagory": "Non-Veg",
+      "ResName": "Hotel Annapoorna",
+      "dishName": "Mutton Biryani",
+      "price": "380",
+      "Quantity": "2",
+      "Description": "Let's start with a brief intro about Eid-ul-Adha then we will jump into the star of our post \"Mutton Biryani\".",
+      "Thumbnale": "https://feastwithsafiya.com/wp-content/uploads/2021/07/Mutton-Biryani-recipe-.jpg",
+      "Rating": "4"
+    },
+    {
+      "id": "76dd",
+      "catagory": "Sea Food",
+      "ResName": "Beachside",
+      "dishName": "Vietnamese tamarind crabs",
+      "price": "750",
+      "Quantity": "6",
+      "Description": "My mom’s Vietnamese tamarind crabs pack a flavor punch with every morsel of sweet crab meat imbued ...",
+      "Thumbnale": "https://beyondsweetandsavory.com/wp-content/uploads/2021/05/Vietnamese-tamarind-crabs-Vy-Tran-14-of-15-853x1280-1.jpg",
+      "Rating": "5"
+    },
+    {
+      "id": "71a9",
+      "catagory": "Non-Veg",
+      "ResName": "Bistara",
+      "dishName": "Chicken Curry",
+      "price": "120",
+      "Quantity": "3",
+      "Description": "Chicken Chettinad curry is a finger-licking delicious Tamil Nadu dish made with homemade Chettinad",
+      "Thumbnale": "https://butfirstchai.com/wp-content/uploads/2023/01/chicken-chettinad-curry-recipes-500x375.jpg",
+      "Rating": "4"
+    }
+  ],
+  "order": []
+}

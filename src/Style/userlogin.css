@@ -1,0 +1,60 @@
+.userLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 130px;
+}
+.userLogin form{
+    border: 5px solid black;
+    padding: 70px;
+    border-radius: 8px;
+    border-top: none;
+    border-top-left-radius:0px ;
+    border-top-right-radius:0px ;
+}
+.userLogin form input{
+    height: 30px;
+    width: 190px;
+    margin-bottom: 10px;
+    outline: none;
+    border: none;
+    border-bottom:2px solid black ;
+}
+.userLogin form button{
+    height: 30px;
+    width: 276px;
+    background-color: blue;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    transition: .4s;
+}
+.userLogin form button:hover{
+    transform: scale(1.05);
+   background-color: rgb(2, 2, 182);
+}
+.box3{
+    border: 5px solid black;
+    border-radius: 8px;
+    border-bottom: none;
+    border-bottom-left-radius:0px ;
+    border-bottom-right-radius:0px ;
+
+}
+.box3 button{
+    height: 30px;
+    width: 208px;
+}
+#btn5{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-bottom: .3px solid black;
+}
+#btn6{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border: none;
+    border-bottom: .3px solid black;
+}

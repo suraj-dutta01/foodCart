@@ -1,0 +1,32 @@
+.AdminNavbar{
+    background-color: rgb(188, 173, 173);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0px 90px;
+}
+.AdminNavbar a{
+    padding: 0 60px;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(2, 106, 28);
+    transition: 300ms;
+}
+.AdminNavbar a:hover{
+    color: rgb(25, 137, 53);
+    text-decoration: underline;
+    transform: scale(1.1);
+}
+.logo h1{
+    color: rgb(236, 0, 0);
+    transition: 300ms;
+}
+.logo h1:hover{
+    transform: scale(1.1);
+
+}
+.logo h1 span{
+    color: white;
+    font-size: 25px;
+}

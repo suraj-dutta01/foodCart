@@ -1,0 +1,38 @@
+.userview{
+    margin-top: 30px;
+    display: grid;
+    justify-content: space-around;
+    align-items: center;
+    grid-template-columns: 300px 300px 300px;
+    gap: 30px;
+}
+.product{
+ border: 1px solid black;
+ height: 330px;
+ width: 300px;
+ margin: 20 0;
+}
+.product img{
+    height: 200px;
+    width: 298px;
+}
+.restu{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.but{
+    margin: -20px 30px 20px ;
+}
+.but button{
+    height: 30px;
+    width: 80px;
+    border: none;
+    background-color: rgb(21, 145, 104);
+    border-radius: 5px;
+    color: aliceblue;
+    
+}
+.but button:hover{
+    background-color: rgb(10, 107, 75);
+}

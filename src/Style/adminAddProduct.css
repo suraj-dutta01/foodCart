@@ -1,0 +1,24 @@
+.addproduct{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.addproduct label{
+    margin: 10px 20px;
+}
+.addproduct form {
+    border: 3px solid rgb(61, 16, 242);
+    background-color: rgb(74, 171, 171);
+    border-radius: 5px;
+    padding: 20px;
+}
+.addproduct button{
+    transform: translate(145px);
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+    padding: 5px 10px;
+}

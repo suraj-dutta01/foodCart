@@ -1,0 +1,60 @@
+.adminLogin{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.adminLogin form{
+    border: 5px solid black;
+    padding: 50px;
+    margin-top: -34.8px;
+    border-radius: 9px;
+    gap: 30px;
+}
+.adminLogin form input{
+    height: 30px;
+    width: 190px;
+    margin-bottom: 10px;
+    border: none;
+    border-bottom: 2px solid black;
+    outline: none;
+}
+.adminLogin form button{
+    height: 30px;
+    width: 276px;
+    background-color: blue;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    transition: .4s;
+}
+.adminLogin form button:hover{
+   transform: scale(1.05);
+   background-color: rgb(2, 2, 182);
+}
+.box{
+    height: 30px;
+    width: 380px;
+    display: flex;
+    justify-content: center;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 130px;
+    z-index: 5;
+}
+.box button{
+    height: 30px;
+    width: 188px;
+    border: none;
+}
+#btn1{
+    background-color: blue;
+    color: white;
+    
+}
+#btn2{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-bottom:.3px solid black ;
+}
+

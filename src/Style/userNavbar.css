@@ -1,0 +1,16 @@
+.usernavbar{
+    width: 100vw;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 100px;
+}
+.Uoption a{
+    padding: 0 60px;
+    font-size: 23px;
+    text-decoration: none;
+    font-weight: bold;
+    color: rgb(2, 106, 28);
+    transition: 300ms;
+}

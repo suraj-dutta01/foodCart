@@ -1,0 +1,62 @@
+
+.maincart{
+    width: 50vw;
+    margin-top: 40px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 25vw;
+}
+.cart{
+    display: flex;
+    justify-content: center;
+    width: 50vw;
+    align-items: center;
+    border: 2px solid black;
+
+}
+.food{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+}
+.box{
+    height: 20px;
+    width: 30px;
+    border: 1px solid black;
+    margin-top: 1px;
+}
+.butns{
+    margin-left: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20px;
+    
+}
+.quantity{
+    font-size: 13px;
+}
+#mark{
+    text-align: center;
+    margin-top: 100px;
+}
+.place{
+    display: flex;
+    justify-content: center;
+
+}
+.place button{
+    height: 30px;
+    border: none;
+    background-color: orangered;
+    border-radius: 5px;
+    color: white;
+    margin-left: 30px;
+    margin-top: 5px;
+}

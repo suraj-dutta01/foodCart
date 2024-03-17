@@ -1,0 +1,33 @@
+.adminview{
+display: grid;
+justify-content: space-around;
+align-items: center;
+grid-template-columns: 300px 300px 300px;
+}
+.products{
+    height: 330px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 20px 0;
+}
+.products img{
+    height: 200px;
+    width: 290px;
+}
+.resturent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.resturent b{
+    background-color: rgb(14, 197, 7);
+    margin-right: 10px;
+    color: white;
+    border-radius: 9px;
+}
+.opt{
+    margin-top: -33px;
+    display: flex;
+    justify-content: space-between;
+}
